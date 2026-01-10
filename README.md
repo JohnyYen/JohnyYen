@@ -54,8 +54,6 @@ I’m constantly learning, experimenting, and improving — driven by curiosity 
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
 </div>
 
