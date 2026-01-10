@@ -38,8 +38,7 @@ I’m constantly learning, experimenting, and improving — driven by curiosity 
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
   <img src="https://devicons.railway.com/i/strapi.svg" height="60" alt="strapi logo"  />
-  <img src="https://devicons.railway.com/i/hono.svg
-  " height="60" alt="hono logo"  />
+  <img src="https://devicons.railway.com/i/hono.svg" height="60" alt="hono logo"  />
 </div>
 
 <h3 align="center">Dev & Insfrastructure</h3>
