@@ -1,63 +1,116 @@
-<br clear="both">
+<h1 align="center">Hi 👋, I'm Johny</h1>
+<h2 align="center"><b>Backend-focused Software Architect in Evolution</b></h2>
 
-<h1 align="left">Hi👋, my name is Johny 😉</h1>
 
-###
+### 👨‍💻 About me
 
-<h3 align="left">About Me 😀</h3>
+<img src="src/pixel-mario.gif" alt="pixel mario"  />
 
-###
 
-<br clear="both">
+I'm a **4th-year Computer Engineering student** with a strong focus on **Backend Development, Software Design, and System Architecture**.
 
-<p align="left">I am a 💻 Computer Engineering 🎓Student<br><br>Always interested in learning new things 😁</p>
+I enjoy designing systems that are **clean, scalable, and well-structured**, and I’m especially interested in the intersection of **backend engineering, research, and architecture**.
 
-###
+I’m constantly learning, experimenting, and improving — driven by curiosity and a desire to build software that actually lasts.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
 
-###
+### 🧠 What I focus on
 
-<br clear="both">
+- Backend-first system design
+- API design & architecture (REST, modular systems)
+- Research-driven development
+- Clean code, scalability, and maintainability
+- Open Source and developer tooling
 
-<h3 align="left">Front Tech</h3>
+---
 
-###
+### 🛠️ Main Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left">Back Tech</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-###
+<h3 align="center">Backend</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnyYen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JohnyYen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img src="src/strapi-svgrepo-com.svg" height="60" alt="strapi logo"  />
 </div>
 
-###
+<h3 align="center">Databases</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+</div>
+
+<h3 align="center">Frontend</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+</div>
+
+<h3 align="center">Dev & Insfraestructure</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+</div>
+
+---
+
+### 💼 Experience
+
+- Worked as a **Backend / Software Developer** in **2 companies**
+  - Medialityc
+  - Avangenio
+- Built custom software solutions for individual clients
+
+---
+
+### 📚 Currently learning & improving
+
+- Software Architecture & Design Patterns level pro
+- Backend scalability and performance
+- Better system modeling and decision-making
+- New Frameworks and automatizations with n8n
+
+---
+
+### Connect with me
+
+<div align="left">
+<a href="https://www.linkedin.com/in/johny-antonio-pedraza-romero" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="telegram logo"  />
+
+</a>
+</div>
+
+> _“Learning never stops — systems evolve, and so do we.”_
