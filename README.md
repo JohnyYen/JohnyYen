@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johny</h1>
 <h2 align="center"><b>Backend-focused Software Engineer | Architecture in Evolution</b></h2>
 
-
 ### 👨‍💻 About me
-
 
 I'm a **4th-year Computer Engineering student** with a strong focus on **Backend Development, Software Design, and System Architecture**.
 
@@ -37,8 +35,6 @@ I’m constantly learning, experimenting, and improving — driven by curiosity 
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
   <img src="https://devicons.railway.com/i/strapi.svg" height="60" alt="strapi logo"  />
@@ -88,7 +84,6 @@ I’m constantly learning, experimenting, and improving — driven by curiosity 
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
 </div>
 
-
 ---
 
 ### 💼 Experience
@@ -110,8 +105,8 @@ I’m constantly learning, experimenting, and improving — driven by curiosity 
 ---
 
 ### 😁 Let’s build and learn together
+
 Always open to meaningful backend roles, system design discussions, and open source collaboration.
 You can reach me on <a href="https://www.linkedin.com/in/johny-antonio-pedraza-romero">LinkedIn</a>.
-
 
 > _“Learning never stops — systems evolve, and so do we.”_
