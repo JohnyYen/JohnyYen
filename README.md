@@ -1,109 +1,96 @@
-<h1 align="center">Hi 👋, I'm Johny</h1>
-<h2 align="center"><b>Backend-focused Software Engineer | Architecture in Evolution</b></h2>
+<h1 align="center">Hi 👋, I'm Johny A. Pedraza Romero</h1>
+<h2 align="center"><b>Backend engineer building scalable, clean-architecture APIs with FastAPI, NestJS & .NET. Into DDD, developer tooling, and AI-augmented development.</b></h2>
 
-### 👨‍💻 About me
+### What I build
 
-I'm a **4th-year Computer Engineering student** with a strong focus on **Backend Development, Software Design, and System Architecture**.
-
-I enjoy designing systems that are **clean, scalable, and well-structured**, and I’m especially interested in the intersection of **backend engineering, research, and architecture**.
-
-> Alongside my academic background, I’ve worked in real production environments, collaborating with teams and building backend systems for companies and individual clients.
-
-I’m constantly learning, experimenting, and improving — driven by curiosity and a desire to build software that actually lasts.
-
-<img src="src/pixel-mario.gif" alt="pixel mario"  />
-
-### 🧠 What I focus on
-
-- Research-driven development
-- Clean code, scalability, and maintainability
-- API design & architecture (REST, modular systems)
-- Backend-first system design
-- Open Source and developer tooling
-
----
-
-### 🛠️ Experience in
-
-<h3 align="center">Backend</h3>
+- Type-safe backend templates, clean-architecture scaffolds, and developer tooling.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img src="https://devicons.railway.com/i/strapi.svg" height="60" alt="strapi logo"  />
-  <img src="https://devicons.railway.com/i/hono.svg" height="60" alt="hono logo"  />
+  <img src="assets/pixel-mario.gif" alt="pixel mario" />
 </div>
 
-<h3 align="center">Dev & Insfrastructure</h3>
+Currently focused on building robust APIs and exploring software architecture patterns for scalable systems. Passionate about clean architecture, domain-driven design, and AI-augmented development workflows.
 
+### What I focus on
+
+- **Software Architecture**: Designing maintainable systems, understanding DDD, Clean Architecture, and system design principles.
+- **AI Engineering**: Learning ML integration, building AI-powered features, and understanding LLM patterns.
+
+<h3 align="center">Back-end Frameworks</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img src="https://devicons.railway.com/i/hono.svg" height="60" alt="Hono logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://devicons.railway.com/i/strapi.svg" height="60" alt="Strapi logo" />
 </div>
 
-<h3 align="center">Frontend</h3>
-
+<h3 align="center">ERP Platforms</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://devicons.railway.com/i/frappe.svg" height="60" alt="Frappe logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://devicons.railway.com/i/erpnext.svg" height="60" alt="ERPNext logo" />
 </div>
 
 <h3 align="center">Databases</h3>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="Prisma ORM logo" />
 </div>
 
+<h3 align="center">Dev & Infrastructure</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="GitLab logo" />
+</div>
+
+<h3 align="center">Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
+</div>
+
+### Experience
+
+**Backend Developer** at **Medialityc**
+2024-10 – 2025-07
+Completed backend development training in .NET and FastAPI, focusing on a generalization-oriented development approach and the design of robust, project-aligned architectures.
+
+**Frappe Developer** at **Avangenio**
+2025-05 – present
+Currently responsible for developing new features using Python and JavaScript for custom ERPNext applications.
+
+**Founder** at **Ikizen**
+2025-07 – present
+Founded Ikizen, a digital growth agency focused on web development and brand identity design, helping businesses build an elegant, professional digital presence backed by clean code.
+
+### Currently learning
+
+Currently diving deep into system design and exploring how AI/ML can enhance developer productivity. Open to architecture discussions and collaboration!
+
+> Learning never stops — systems evolve, and so do we.
+
 ---
 
-### 💼 Experience
-
-- Worked as a **Backend / Software Developer** in **2 companies**
-  - [Medialityc](https://github.com/medialityc)
-  - [Avangenio](https://avangenio.com/)
-- Built custom software solutions for individual clients
-
----
-
-### 📚 Currently learning & improving
-
-- Software Architecture & Design Patterns
-- Backend scalability and performance
-- Better system modeling and decision-making
-- New Frameworks and automatizations with n8n
-
----
-
-### 😁 Let’s build and learn together
-
-Always open to meaningful backend roles, system design discussions, and open source collaboration.
-You can reach me on <a href="https://www.linkedin.com/in/johny-antonio-pedraza-romero">LinkedIn</a>.
-
-> _“Learning never stops — systems evolve, and so do we.”_
+*Feel free to reach out for collaboration, architecture discussions, or just to say hi!*
